@@ -1,6 +1,8 @@
 # Web-Project
 Project Title: Web E-Commerce Fashion Website - Front-End Design
+
 Description:
+
 This project focuses on the front-end design of a fashion e-commerce website.
 It features a sleek, modern, and user-friendly interface tailored for optimal shopping experiences. Key elements include:
    -> Responsive Design: Adaptive layout for seamless use on desktops, tablets, and smartphones.
